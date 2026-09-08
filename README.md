@@ -1,8 +1,7 @@
 ## Hi there, I am Serge 👋
-🔭 I’m currently working on a Web App to handle my transportation at my church
-🌱 I’m currently a Computer Science student
-⚡ Fun fact: My love for languages is partly the reason why I chose to study Comp Sci
- 🤔 I’m looking for help with ideas for small projects to get better 
+I'm a Computer Science student at Temple University with a foundation in systems programming, algorithms, and web development. My journey started with a curiosity about how things work under the hood. Introductory courses in Operating Systems and Low-level Programming have piqued my interest, and since then, I have taken steps to turn my interest into knowledge. And to make my knowledge less abstract, I spend time observing things around me, wondering how I can solve problems to help people.
+
+Beyond coding, I am a big fan of human languages, excited to connect with people from different cultures. I'm fluent in French, German, and English. I'm currently a Language Tutor at Temple University, not only to sharpen my language skills but also to share my knowledge and help others learn.
 
 
 # 💻 Tech Stack:
@@ -15,4 +14,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Serge-EH77&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
